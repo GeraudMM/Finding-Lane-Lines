@@ -7,7 +7,7 @@
 ### Introduction
   In this project, we 
 
-### Geting started
+### Getting Started
 
 In order to open and interact with this algorithm you will need to follow the following steps:
 
@@ -23,9 +23,9 @@ Jupyter is an Ipython notebook where you can run blocks of code and see results 
 
 A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  
 
-### instruction
+### Instruction
 Follow the instruction in the `P1.ipynb` notebook to watch and/or improve the visual recognition algorithm. 
-Check also the `Report.pdf` for explaination on the algorithm.
+Check also the `Report.md` for explaination on the algorithm.
 
 
 
